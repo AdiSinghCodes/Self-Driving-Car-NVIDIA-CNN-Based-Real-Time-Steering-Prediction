@@ -5,24 +5,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Latest-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Performance](#model-performance)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Challenges & Solutions](#challenges--solutions)
-- [Future Improvements](#future-improvements)
-- [References](#references)
-- [License](#license)
-
----
-
 ## 🎯 Overview
 
 This project implements an **end-to-end deep learning system** for autonomous vehicle steering prediction using NVIDIA's pioneering CNN architecture. The system processes raw camera images and directly predicts steering angles in real-time, mimicking human driving behavior through behavioral cloning.
