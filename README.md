@@ -578,8 +578,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/AdiSinghCodes)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/aditya-singh-2b319b299/)
+- GitHub: [AdiSinghCodes](https://github.com/AdiSinghCodes)
+- LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya-singh-2b319b299/)
 - Email: adityapsingh565@gmail.com
 
 ---
