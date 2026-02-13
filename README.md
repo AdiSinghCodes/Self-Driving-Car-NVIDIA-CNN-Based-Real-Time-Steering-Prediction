@@ -568,24 +568,7 @@ call("cls")  # Windows alternative
    - Bojarski, M., et al. (2016). "End to End Learning for Self-Driving Cars"
    - [Paper Link](https://arxiv.org/abs/1604.07316)
    - [Official Blog](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
-
-### Datasets
-
-2. **Udacity Self-Driving Car Dataset**
-   - Similar dataset used for behavioral cloning
-   - [Dataset Link](https://github.com/udacity/self-driving-car)
-
-### Tutorials & Resources
-
-3. **TensorFlow Documentation**
-   - [TensorFlow 1.x Compatibility Guide](https://www.tensorflow.org/guide/migrate)
-   - [Convolutional Neural Networks](https://www.tensorflow.org/tutorials/images/cnn)
-
-4. **OpenCV Documentation**
-   - [Video Capture and Processing](https://docs.opencv.org/master/d8/dfe/classcv_1_1VideoCapture.html)
-
----
-
+     
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -595,9 +578,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/AdiSinghCodes)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/aditya-singh-2b319b299/)
+- Email: adityapsingh565@gmail.com
 
 ---
 
@@ -610,15 +593,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-1. **Open an Issue**: [GitHub Issues](https://github.com/yourusername/project/issues)
-2. **Pull Requests**: Contributions welcome!
-3. **Email**: your.email@example.com
-
----
 
 ## 🌟 Project Status
 
